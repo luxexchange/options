@@ -49,6 +49,6 @@ import {
 
 ## License
 
-MIT © 2020-2026 Lux Industries, Inc. See [LICENSE](./LICENSE).
+BSD-3-Clause © 2020-2026 Lux Industries, Inc. See [LICENSE](./LICENSE).
 
 Extracted from the Lux Exchange monorepo as a standalone, non-GPL package.

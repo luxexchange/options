@@ -2,7 +2,7 @@
   "name": "@luxfi/options",
   "version": "0.0.3",
   "description": "Options chain UI components for Lux Exchange",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luxexchange/options.git"
